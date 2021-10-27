@@ -1540,5 +1540,29 @@ QB.Doors = {
 		distance = 2,
 		size = 2
 	},
+	{
+		objName = 'v_ilev_bk_door2',
+		objYaw = 210.0,
+		objCoords  = vector3(-537.13, -192.68, 38.22),
+		textCoords = vector3(-537.13, -192.68, 38.22),
+		authorizedJobs = { 'realestate' },
+		locking = false,
+		locked = true,
+		pickable = false,
+		distance = 2,
+		size = 2
+	},
+	{
+		objName = 'v_ilev_lostdoor',
+		objYaw = 42.0,
+		objCoords  = vector3(982.05, -102.99, 74.85),
+		textCoords = vector3(982.05, -102.99, 74.85),
+		authorizedJobs = { 'lostmc' },
+		locking = false,
+		locked = true,
+		pickable = false,
+		distance = 2,
+		size = 2
+	},
 
 }
