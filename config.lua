@@ -1564,5 +1564,134 @@ QB.Doors = {
 		distance = 2,
 		size = 2
 	},
+	{
+		textCoords = vector3(-1180.18, -1736.52, 4.46),
+		authorizedJobs = { 'cardealer' },
+		locking = false,
+		locked = true,
+		pickable = false,
+		distance = 2.5,
+		doors = {
+			{
+				objName = 'hei_prop_ss1_mpint_door_r',
+				objYaw = 35.0,
+				objCoords = vector3(-1179.88, -1736.06, 4.46)
+			},
+
+			{
+				objName = 'hei_prop_ss1_mpint_door_l',
+				objYaw = 35.0,
+				objCoords = vector3(-1180.69, -1736.64, 4.46)
+			}
+		}
+	},
+	{
+		textCoords = vector3(-1125.86, -1729.23, 4.45),
+		authorizedJobs = { 'cardealer' },
+		locking = false,
+		locked = true,
+		pickable = false,
+		distance = 2.5,
+		doors = {
+			{
+				objName = 'hei_prop_ss1_mpint_door_r',
+				objYaw = 35.0,
+				objCoords = vector3(-1125.44, -1729.05, 4.45)
+			},
+
+			{
+				objName = 'hei_prop_ss1_mpint_door_l',
+				objYaw = 35.0,
+				objCoords = vector3(-1126.13, -1729.65, 4.45)
+			}
+		}
+	},
+	{
+		textCoords = vector3(-1219.7, -1724.03, 4.45),
+		authorizedJobs = { 'cardealer' },
+		locking = false,
+		locked = true,
+		pickable = false,
+		distance = 2.5,
+		doors = {
+			{
+				objName = 'hei_prop_ss1_mpint_door_r',
+				objYaw = 35.0,
+				objCoords = vector3(-1220.15, -1724.24, 4.45)
+			},
+
+			{
+				objName = 'hei_prop_ss1_mpint_door_l',
+				objYaw = 35.0,
+				objCoords = vector3(-1219.27, -1723.81, 4.45)
+			}
+		}
+	},
+	{
+		textCoords = vector3(-1152.7, -1730.23, 4.45),
+		authorizedJobs = { 'cardealer' },
+		locking = false,
+		locked = true,
+		pickable = false,
+		distance = 2.5,
+		doors = {
+			{
+				objName = 'hei_prop_ss1_mpint_door_r',
+				objYaw = 305.0,
+				objCoords = vector3(-1152.31, -1730.72, 4.45)
+			},
+
+			{
+				objName = 'hei_prop_ss1_mpint_door_l',
+				objYaw = 305.0,
+				objCoords = vector3(-1152.82, -1729.77, 4.45)
+			}
+		}
+	},
+	{
+		textCoords = vector3(-1143.5, -1697.51, 11.8),
+		authorizedJobs = { 'cardealer' },
+		locking = false,
+		locked = true,
+		pickable = false,
+		distance = 5.5,
+		doors = {
+			{
+				objName = 'imp_prop_impexp_liftdoor_l',
+				--objYaw = 305.0,
+				objCoords = vector3(-1144.17, -1696.88, 11.8)
+			},
+
+			{
+				objName = 'imp_prop_impexp_liftdoor_r',
+				--objYaw = 305.0,
+				objCoords = vector3(-1143.01, -1698.51, 11.8)
+			}
+		}
+	},
+	{
+		objName = 'apa_prop_ss1_mpint_garage2',
+		--objYaw = 30.0,
+		objCoords  = vector3(-1189.26, -1742.46, 4.46),
+		textCoords = vector3(-1189.26, -1742.46, 4.46),
+		authorizedJobs = { 'cardealer' },
+		locking = false,
+		locked = true,
+		pickable = false,
+		distance = 25,
+		size = 2
+	},
+	{
+		objName = 'apa_prop_ss1_mpint_garage2',
+		--objYaw = 30.0,
+		objCoords  = vector3(-1129.17, -1693.41, 4.47),
+		textCoords = vector3(-1129.17, -1693.41, 4.47),
+		authorizedJobs = { 'cardealer' },
+		locking = false,
+		locked = true,
+		pickable = false,
+		distance = 15,
+		size = 2
+	},
 
 }
